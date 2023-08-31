@@ -10,4 +10,13 @@ import ToDoList from "./ToDoList.vue";
   </div>
 </template>
 <style lang="scss" scoped>
+.todo-app {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  text-align: center;
+}
 </style>
