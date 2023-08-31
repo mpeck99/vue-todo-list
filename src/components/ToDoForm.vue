@@ -23,6 +23,10 @@ function addItemAndClear(item) {
   </form>
 </template>
 <style lang="scss" scoped>
+form {
+  text-align: center;
+}
+
 label {
   font-weight: 700;
   font-size: 1.5rem;

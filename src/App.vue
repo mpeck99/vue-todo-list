@@ -18,6 +18,6 @@ main {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 </style>
